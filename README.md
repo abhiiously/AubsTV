@@ -1,42 +1,16 @@
-# AubsTV - IPTV Player
+# aubstv
 
-AubsTV is a cross-platform IPTV player designed for Windows, Android, iOS, macOS, and Apple TV. This project is being developed from the ground up with the goal of supporting as many platforms as possible, starting with Windows.
-
-## Features (Planned)
-- Stream live TV using M3U playlists.
-- EPG support for an electronic program guide.
-- Cross-platform support (Windows, Android, iOS, macOS, Apple TV).
-- Intuitive and user-friendly UI.
-  
-## Platforms
-- [x] Windows (In Progress)
-- [ ] Android
-- [ ] iOS
-- [ ] macOS
-- [ ] Apple TV
+An IPTV player app for multiple platforms
 
 ## Getting Started
 
-### Prerequisites
-- [Flutter SDK](https://flutter.dev/docs/get-started/install)
-- [Visual Studio](https://visualstudio.microsoft.com/) with Desktop Development with C++ workload
+This project is a starting point for a Flutter application.
 
-### Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/AubsTV.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd AubsTV
-    ```
-3. Run the app on Windows:
-    ```bash
-    flutter run -d windows
-    ```
+A few resources to get you started if this is your first Flutter project:
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## Contact
-Created by [Abhi](https://abhiiously.io).
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
